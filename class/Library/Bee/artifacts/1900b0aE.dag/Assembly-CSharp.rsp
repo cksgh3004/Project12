@@ -353,11 +353,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Animation Clip/Script/FileLoad.cs"
 "Assets/Animation Clip/Script/Popup.cs"
+"Assets/Collision/Script/CharacterControl.cs"
+"Assets/Collision/Script/Sensor.cs"
 "Assets/Navmesh Agent/Script/Controler.cs"
-"Assets/NewBehaviourScript.cs"
 "Assets/Script/AnimatorAction.cs"
 "Assets/Script/Bland Animation.cs"
 "Assets/Script/LifeCycle.cs"
+"Assets/Script/NewBehaviourScript.cs"
 -langversion:9.0
 
 /deterministic
