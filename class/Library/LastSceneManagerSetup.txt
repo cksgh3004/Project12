@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Terrain/Scenes/Terrain.unity
+- path: Assets/Joint/Scene/Joint.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
