@@ -392,6 +392,8 @@
 "Assets/InstantateandDestroy/Script/GenericStoneDelete.cs"
 "Assets/InstantateandDestroy/Script/ObjectPool.cs"
 "Assets/Joint/Reference.cs"
+"Assets/Light/Script/LightManager.cs"
+"Assets/Light/Script/Patrol.cs"
 "Assets/Navmesh Agent/Script/Controler.cs"
 "Assets/NavMesh Obstacle/Script/Arrival.cs"
 "Assets/NavMesh Obstacle/Script/AutoMove.cs"
