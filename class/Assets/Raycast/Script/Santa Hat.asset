@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0083a47735fba1447b2a19e50d51c165, type: 3}
+  m_Name: Santa Hat
+  m_EditorClassIdentifier: 
+  price: 500
+  PurchasePicture: {fileID: 21300000, guid: 4273ed0a39fe5d54e9c0ae92c92ff8da, type: 3}
+  itemBoader: {fileID: 21300000, guid: ac5b9b365c594e148b2459e8ff3c24f5, type: 3}
+  itemPicture: {fileID: 21300000, guid: 767e7172b44345e429947231683d2337, type: 3}
